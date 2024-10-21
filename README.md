@@ -28,3 +28,17 @@ npm run dev
 npm run build
 ```
 # Crypto_vue
+
+### About App
+
+This is my first test application in Vue js. It shows the exchange rate of various cryptocurrencies to the dollar.
+
+### API Link
+
+To work with cryptocurrency, I used a third-party API
+
+```sh
+https://www.coinlore.com/ru/cryptocurrency-data-api
+```
+
+
