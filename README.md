@@ -22,11 +22,19 @@ npm install
 npm run dev
 ```
 
+### WARNING! To work you need to download the library to work with the API
+
+```sh
+npm install axios
+```
+
 ### Compile and Minify for Production
 
 ```sh
 npm run build
 ```
+
+
 # Crypto_vue
 
 ### About App
